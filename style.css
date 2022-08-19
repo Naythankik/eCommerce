@@ -492,6 +492,11 @@ article.modal-thumbnails img:hover {
   div.hamburger-menu {
     display: block;
   }
+  header {
+    padding: unset;
+    border: none;
+    margin: 0;
+  }
   div.nav {
     display: none;
     position: fixed;
